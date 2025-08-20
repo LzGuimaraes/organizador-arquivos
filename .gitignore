@@ -1,0 +1,21 @@
+# Ignorar cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignorar ambientes virtuais
+.venv/
+env/
+venv/
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos temporários do sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar configurações de IDEs
+.vscode/
+.idea/
+*.swp
