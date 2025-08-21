@@ -1,4 +1,3 @@
-# main.py
 import argparse
 import logging
 from organizador import organizar_pasta

@@ -6,6 +6,7 @@ MAPA_DE_PASTAS = {
     ".gif": "Imagens",
     ".bmp": "Imagens",
     ".svg": "Imagens",
+    ".webp": "Imagens", 
 
     # Vídeos
     ".mp4": "Videos",
@@ -20,16 +21,40 @@ MAPA_DE_PASTAS = {
     ".txt": "Documentos_Texto",
     ".xlsx": "Planilhas_Excel",
     ".pptx": "Apresentacoes",
+    ".csv": "Dados_CSV", 
+    ".md": "Documentos_Markdown", 
+
+    # Áudio
+    ".mp3": "Audio",
+    ".wav": "Audio",
+    ".flac": "Audio",
 
     # Compactados
     ".zip": "Arquivos_Compactados",
     ".rar": "Arquivos_Compactados",
     ".7z": "Arquivos_Compactados",
+    ".tar": "Arquivos_Compactados", 
+    ".gz": "Arquivos_Compactados",  
+    ".bz2": "Arquivos_Compactados", 
 
-    # Executáveis
+    # Executáveis e Instaladores
     ".exe": "Executaveis",
     ".msi": "Instaladores",
+    ".deb": "Pacotes_Instaladores", 
+    ".rpm": "Pacotes_Instaladores", 
+    ".appimage": "Executaveis_Linux", 
 
-    # Outros
+    # Atalhos e Configurações
+    ".desktop": "Atalhos", 
+    ".lnk": "Atalhos",    
+
+    # Imagens de Disco
     ".iso": "Imagens_de_Disco",
+    ".img": "Imagens_de_Disco",
+
+    # Arquivos de Log e Temporários
+    ".log": "Logs_Registros", 
+    ".part": "Downloads_Incompletos", 
+    ".crdownload": "Downloads_Incompletos", 
+    ".tmp": "Arquivos_Temporarios", 
 }
